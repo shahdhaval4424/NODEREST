@@ -1,5 +1,3 @@
 # NODEREST
-Implementing Node REST API with all database.
+Implementing Node REST API for learning
 
-
-# By : Dhaval Shah
