@@ -1,3 +1,1 @@
-# NODEREST
-Implementing Node REST API for learning
-
+This is sample file of the project
